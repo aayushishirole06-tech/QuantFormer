@@ -1,1 +1,12 @@
-fastapi>=0.115,<1\nuvicorn[standard]>=0.30,<1\npydantic>=2.8,<3\npython-dotenv>=1,<2\nPyYAML>=6,<7\nkafka-python>=2,<3\npytest>=8,<9\nhttpx>=0.27,<1\n
+
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+pydantic>=2.8,<3
+python-dotenv>=1,<2
+PyYAML>=6,<7
+aiokafka>=0.10,<1
+numpy>=1.26,<3
+pandas>=2,<3
+torch>=2.2
+transformers>=4.40
+httpx>=0.27,<1
