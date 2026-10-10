@@ -1,0 +1,11 @@
+app:
+  name: QuantFormer
+  host: 127.0.0.1
+  port: 8000
+market:
+  default_symbol: AAPL
+  stream_interval_seconds: 2
+kafka:
+  bootstrap_servers: localhost:9092
+  order_book_topic: quantformer.orderbook
+  news_topic: quantformer.news

@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "2026-09-30T10:00:00.100Z",
+    "symbol": "AAPL",
+    "bids": [
+      {
+        "price": 255.1,
+        "volume": 1200
+      },
+      {
+        "price": 255.05,
+        "volume": 950
+      },
+      {
+        "price": 255.0,
+        "volume": 1500
+      },
+      {
+        "price": 254.95,
+        "volume": 800
+      },
+      {
+        "price": 254.9,
+        "volume": 1100
+      }
+    ],
+    "asks": [
+      {
+        "price": 255.15,
+        "volume": 900
+      },
+      {
+        "price": 255.2,
+        "volume": 1300
+      },
+      {
+        "price": 255.25,
+        "volume": 750
+      },
+      {
+        "price": 255.3,
+        "volume": 1000
+      },
+      {
+        "price": 255.35,
+        "volume": 850
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-30T10:00:00.200Z",
+    "symbol": "AAPL",
+    "bids": [
+      {
+        "price": 255.12,
+        "volume": 1250
+      },
+      {
+        "price": 255.07,
+        "volume": 900
+      },
+      {
+        "price": 255.02,
+        "volume": 1450
+      },
+      {
+        "price": 254.97,
+        "volume": 820
+      },
+      {
+        "price": 254.92,
+        "volume": 1050
+      }
+    ],
+    "asks": [
+      {
+        "price": 255.17,
+        "volume": 880
+      },
+      {
+        "price": 255.22,
+        "volume": 1280
+      },
+      {
+        "price": 255.27,
+        "volume": 780
+      },
+      {
+        "price": 255.32,
+        "volume": 980
+      },
+      {
+        "price": 255.37,
+        "volume": 870
+      }
+    ]
+  }
+]

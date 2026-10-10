@@ -1,0 +1,1 @@
+fastapi>=0.115,<1\nuvicorn[standard]>=0.30,<1\npydantic>=2.8,<3\npython-dotenv>=1,<2\nPyYAML>=6,<7\nkafka-python>=2,<3\npytest>=8,<9\nhttpx>=0.27,<1\n

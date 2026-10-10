@@ -1,0 +1,1 @@
+from pathlib import Path\nimport yaml\nROOT=Path(__file__).resolve().parents[2]\ndef load_config(path=None):\n    p=Path(path) if path else ROOT/'config/config.yaml'\n    with p.open(encoding='utf-8') as f: return yaml.safe_load(f)\n

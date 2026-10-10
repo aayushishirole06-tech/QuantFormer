@@ -1,0 +1,1 @@
+export default function MetricCard({label,value,detail}){return <div className="metric"><small>{label}</small><strong>{value}</strong><span>{detail}</span></div>}\n

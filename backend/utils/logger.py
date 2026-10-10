@@ -1,0 +1,1 @@
+import logging\ndef get_logger(name):\n    logging.basicConfig(level=logging.INFO, format='%(asctime)s | %(levelname)s | %(name)s | %(message)s')\n    return logging.getLogger(name)\n
